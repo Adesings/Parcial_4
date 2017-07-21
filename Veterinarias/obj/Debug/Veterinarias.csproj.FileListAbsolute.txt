@@ -1,0 +1,8 @@
+c:\users\hites\documents\visual studio 2017\Projects\Veterinarias\Veterinarias\bin\Debug\Veterinarias.exe.config
+c:\users\hites\documents\visual studio 2017\Projects\Veterinarias\Veterinarias\bin\Debug\Veterinarias.exe
+c:\users\hites\documents\visual studio 2017\Projects\Veterinarias\Veterinarias\bin\Debug\Veterinarias.pdb
+c:\users\hites\documents\visual studio 2017\Projects\Veterinarias\Veterinarias\obj\Debug\Veterinarias.Home.resources
+c:\users\hites\documents\visual studio 2017\Projects\Veterinarias\Veterinarias\obj\Debug\Veterinarias.Properties.Resources.resources
+c:\users\hites\documents\visual studio 2017\Projects\Veterinarias\Veterinarias\obj\Debug\Veterinarias.csproj.GenerateResource.Cache
+c:\users\hites\documents\visual studio 2017\Projects\Veterinarias\Veterinarias\obj\Debug\Veterinarias.exe
+c:\users\hites\documents\visual studio 2017\Projects\Veterinarias\Veterinarias\obj\Debug\Veterinarias.pdb
